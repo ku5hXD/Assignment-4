@@ -1,0 +1,15 @@
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\Question-2.csproj.AssemblyReference.cache
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\Question-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\Question-2.AssemblyInfoInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\Question-2.AssemblyInfo.cs
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\Question-2.csproj.CoreCompileInputs.cache
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\bin\Debug\net6.0\Question-2.exe
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\bin\Debug\net6.0\Question-2.deps.json
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\bin\Debug\net6.0\Question-2.runtimeconfig.json
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\bin\Debug\net6.0\Question-2.dll
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\bin\Debug\net6.0\ref\Question-2.dll
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\bin\Debug\net6.0\Question-2.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\Question-2.dll
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\ref\Question-2.dll
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\Question-2.pdb
+C:\Users\kUSh\dotNet Programs\Assignment-4\Question-2\obj\Debug\net6.0\Question-2.genruntimeconfig.cache
